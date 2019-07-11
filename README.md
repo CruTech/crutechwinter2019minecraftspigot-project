@@ -1,1 +1,1 @@
-# crutechwinter2019discord-project
+# crutechwinter2019minecraftspigot-project
