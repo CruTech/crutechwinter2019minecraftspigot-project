@@ -1,0 +1,11 @@
+main: com.BenRobson.CruTechPluginMan.CruTechPluginManMain
+name: CruTechPluginMan
+version: '1.0'
+api-version: 1.13
+description: My EPIC GAMER plugin.
+author: Ben Robson
+
+commands:
+  testcommand:
+    description: This is a test command.
+    usage: /testcommand
